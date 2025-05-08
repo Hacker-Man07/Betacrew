@@ -20,7 +20,7 @@ betacrew_exchange_server/
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Hacker-Man07/Betacrew.git>
+git clone https://github.com/Hacker-Man07/Betacrew.git
 cd betacrew_exchange_server
 ```
 
