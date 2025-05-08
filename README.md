@@ -20,13 +20,8 @@ betacrew_exchange_server/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Hacker-Man07/Betacrew.git>
 cd betacrew_exchange_server
-```
-
-2. Install dependencies (if any):
-```bash
-npm install
 ```
 
 ## Running the Application
