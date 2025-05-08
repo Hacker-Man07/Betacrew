@@ -14,7 +14,6 @@ betacrew_exchange_server/
 ├── main.js          # Exchange server implementation
 ├── client.js        # Client implementation
 ├── output.json      # Generated output file (created after running client)
-└── README.md        # This file
 ```
 
 ## Setup Instructions
